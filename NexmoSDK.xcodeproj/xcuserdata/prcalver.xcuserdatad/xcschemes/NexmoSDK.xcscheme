@@ -61,6 +61,38 @@
             ReferencedContainer = "container:NexmoSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "nexmoConversationToken"
+            value = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJLb3N0YXMiLCJpYXQiOjE0OTY5MzUzNDAsIm5iZiI6MTQ5NjkzNTM0MCwiZXhwIjoxNDk2OTY1MzcwLCJqdGkiOjE0OTY5MzUzNzAwNzQsImFwcGxpY2F0aW9uX2lkIjoiMGQzYmM1MzUtY2MyZC00MWVkLTg3OTktNWEwOTA1YzdkOTM4IiwiYWNsIjp7InBhdGhzIjp7Ii8qKiI6e319fSwic3ViIjoiZGVtbzFAbmV4bW8uY29tIn0.ADcOjgN23X_CJNtOzYnch0UBUmGNS0rsOrNl7vx6w8BsKBq0hQlrYETZ3qAunOwuq4wxBJbLK0QqZRiUexOHG4TDhsHgFNFk5Qlo1A3f8_f-WBQzbzRRRZXDczRkpqk0FP0x1JZFhDLUKaCgjV4cQac1opNZ-0QUoVnzHNnX6-qK9zbHDhuxQIMd0UZyDRVhdLK6Ty8JCS2Jv9y2B_fuVZdKN7zeBdzXVlMI6b7Klqp8A3Hz_eywciLyh0C_jDMOfaamwKdOsKzKIqtQuXGFZzFEw4XGMIQLG0a5dxjv0-kFyEcXzwgE7Yhi3QFD3Ge8aGaQ_MQIn38wNFXilTcQ0Q"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "bugsnagToken"
+            value = "9f40a7fa253cbcbeae36d4d86c7b8a2a"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "acme_url"
+            value = "http://app1-test.internal/acme/login_rtc.php"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "socket_url"
+            value = "https://api.dev.nexmoinc.net"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "rest_url"
+            value = "https://api.dev.nexmoinc.net/v1"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "ips_url"
+            value = "http://qa1.internal:3170/v1"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>

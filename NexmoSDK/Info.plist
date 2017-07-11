@@ -34,5 +34,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>Nexmo</key>
+	<dict>
+		<key>ConversationApplicationID</key>
+		<string>62572a86-365a-4f96-aaee-1b51d0baa082</string>
+	</dict>
+	<key>CALVTEST</key>
+	<string>$(CALVTEST)</string>
 </dict>
 </plist>
